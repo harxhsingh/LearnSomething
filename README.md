@@ -46,7 +46,7 @@ https://kaafivikrant.github.io/LearnSomething/
 - [Coders Gyan -Learn](https://www.youtube.com/watch?v=iaBSiVQFJHE)
 - [JavaScript Mastrey -Project](https://www.youtube.com/watch?v=l8WPWK9mS5M)
 - [RaddyTheBrand -Project](https://www.youtube.com/watch?v=EkQc-8uzxIA)
-
+- [Markdown Blog-Project-Edit](https://www.youtube.com/watch?v=1NrHkjlWVhM&ab_channel=WebDevSimplified)
 
 # Databases - 1.5 Week
 
